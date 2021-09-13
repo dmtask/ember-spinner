@@ -1,6 +1,6 @@
 {
   "name": "ember-spinner",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Small description for ember-spinner goes here",
   "repository": "https://github.com/dmtask/ember-spinner.git",
   "license": "MIT",
@@ -15,6 +15,15 @@
     "test": "ember test",
     "publish": "yarn publish --access public"
   },
+  "keywords": [
+    "ember-addon",
+    "spinner",
+    "loader",
+    "pre-loader",
+    "ajax-spinner",
+    "ajax-loader",
+    "page-loader"
+  ],
   "devDependencies": {
     "@ember/optional-features": "^1.0.0",
     "babel-eslint": "^10.0.3",
