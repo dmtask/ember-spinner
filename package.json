@@ -1,10 +1,10 @@
 {
   "name": "ember-spinner",
-  "version": "0.0.4",
-  "description": "Small description for ember-spinner goes here",
+  "version": "1.0.0",
+  "description": "A simple Ember CLI Spinner",
   "repository": "https://github.com/dmtask/ember-spinner.git",
   "license": "MIT",
-  "author": "",
+  "author": "DM - Task",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -13,7 +13,7 @@
     "build": "ember build",
     "start": "ember serve",
     "test": "ember test",
-    "publish": "yarn publish --access public"
+    "deploy": "yarn publish --access public"
   },
   "keywords": [
     "ember-addon",
