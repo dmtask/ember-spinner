@@ -1,6 +1,6 @@
 # ember-spinner
 
-[![NPM Downloads][]](https://www.npmjs.org/package/ember-spinner)
+https://www.npmjs.org/package/ember-spinner
 
 A simple Ember CLI Spinner with up-to-date dependencies. Cloned from ember-cli-spinner (https://github.com/ajainvivek/ember-cli-spinner).
 
